@@ -147,13 +147,8 @@
                   symbolName = "-[BookshelfViewController NobkeyChapterContentRequest:]"
                   moduleName = "&#x4eff;&#x641c;&#x72d7;&#x9605;&#x8bfb;"
                   usesParentBreakpointCondition = "Yes"
-<<<<<<< .mine
                   urlString = "file:///Users/DemoLi/Desktop/LY-eBook/eBook/%E4%BB%BF%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB/Section/Tab/Bookshelf/Controller/BookshelfViewController.m"
                   timestampString = "506501442.348358"
-=======
-                  urlString = "file:///Users/DemoLi/Desktop/LY-eBook/eBook/%E4%BB%BF%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB/Section/Tab/Bookshelf/Controller/BookshelfViewController.m"
-                  timestampString = "506508039.575222"
->>>>>>> .r6869
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "363"
@@ -167,13 +162,8 @@
                   symbolName = "__55-[BookshelfViewController NobkeyChapterContentRequest:]_block_invoke"
                   moduleName = "&#x4eff;&#x641c;&#x72d7;&#x9605;&#x8bfb;"
                   usesParentBreakpointCondition = "Yes"
-<<<<<<< .mine
                   urlString = "file:///Users/DemoLi/Desktop/LY-eBook/eBook/%E4%BB%BF%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB/Section/Tab/Bookshelf/Controller/BookshelfViewController.m"
                   timestampString = "506501442.350489"
-=======
-                  urlString = "file:///Users/DemoLi/Desktop/LY-eBook/eBook/%E4%BB%BF%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB/Section/Tab/Bookshelf/Controller/BookshelfViewController.m"
-                  timestampString = "506508039.577256"
->>>>>>> .r6869
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "363"
@@ -477,7 +467,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-<<<<<<< .mine
             filePath = "&#x4eff;&#x641c;&#x72d7;&#x9605;&#x8bfb;/Section/eBook/PDFModel/View/ReaderContentView.m"
             timestampString = "506335457.756062"
             startingColumnNumber = "9223372036854775807"
@@ -488,33 +477,5 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
-=======
-            filePath = "&#x4eff;&#x641c;&#x72d7;&#x9605;&#x8bfb;/Section/eBook/PDFModel/View/ReaderContentView.m"
-            timestampString = "506335457.756062"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "-centerScrollViewContent"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "&#x4eff;&#x641c;&#x72d7;&#x9605;&#x8bfb;/Section/Tab/Bookstore/Controller/YTBookstoreViewController.m"
-            timestampString = "506507825.470069"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
-            landmarkName = "-requestBookStoreInfo"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
->>>>>>> .r6869
    </Breakpoints>
 </Bucket>
